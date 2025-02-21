@@ -1,0 +1,13 @@
+2025-02-21 23:52:51,870 - logging_setup - INFO - Directory checked/created: ../data/
+2025-02-21 23:52:51,874 - logging_setup - INFO - Starting download from Google Drive.
+2025-02-21 23:52:52,436 - logging_setup - ERROR - Error loading data: Failed to retrieve file url:
+
+	Cannot retrieve the public link of the file. You may need to change
+	the permission to 'Anyone with the link', or have had many accesses.
+	Check FAQ in https://github.com/wkentaro/gdown?tab=readme-ov-file#faq.
+
+You may still be able to access the file from the browser:
+
+	https://drive.google.com/uc?export=download&id=data
+
+but Gdown can't. Please check connections and permissions.
