@@ -62,3 +62,7 @@ but Gdown can't. Please check connections and permissions.
 2025-02-22 00:09:10,671 - logging_setup - INFO - Starting download from Google Drive.
 2025-02-22 00:09:15,899 - logging_setup - INFO - File downloaded successfully to ../data/data.csv.
 2025-02-22 00:09:16,459 - logging_setup - INFO - Data loaded into DataFrame successfully.
+2025-02-24 23:23:11,327 - logging_setup - INFO - Directory checked/created: ../data/
+2025-02-24 23:23:11,328 - logging_setup - INFO - Starting download from Google Drive.
+2025-02-24 23:23:16,702 - logging_setup - INFO - File downloaded successfully to ../data/data.csv.
+2025-02-24 23:23:17,632 - logging_setup - INFO - Data loaded into DataFrame successfully.
