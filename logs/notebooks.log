@@ -66,3 +66,11 @@ but Gdown can't. Please check connections and permissions.
 2025-02-24 23:23:11,328 - logging_setup - INFO - Starting download from Google Drive.
 2025-02-24 23:23:16,702 - logging_setup - INFO - File downloaded successfully to ../data/data.csv.
 2025-02-24 23:23:17,632 - logging_setup - INFO - Data loaded into DataFrame successfully.
+2025-02-27 20:31:52,413 - logging_setup - INFO - Directory checked/created: ../data/
+2025-02-27 20:31:52,414 - logging_setup - INFO - Starting download from Google Drive.
+2025-02-27 20:31:57,794 - logging_setup - INFO - File downloaded successfully to ../data/data.csv.
+2025-02-27 20:31:58,965 - logging_setup - INFO - Data loaded into DataFrame successfully.
+2025-02-27 20:33:44,529 - logging_setup - INFO - DataFrame dimensions: (9011, 3)
+2025-02-27 20:33:44,531 - logging_setup - INFO - Displayed data types for each column.
+2025-02-27 20:33:44,535 - logging_setup - INFO - No missing values detected.
+2025-02-27 20:33:44,553 - logging_setup - INFO - Duplicate rows found: 0
