@@ -74,3 +74,6 @@ but Gdown can't. Please check connections and permissions.
 2025-02-27 20:33:44,531 - logging_setup - INFO - Displayed data types for each column.
 2025-02-27 20:33:44,535 - logging_setup - INFO - No missing values detected.
 2025-02-27 20:33:44,553 - logging_setup - INFO - Duplicate rows found: 0
+2025-02-27 21:01:04,509 - logging_setup - INFO - CUSUM plot created successfully.
+2025-02-27 21:08:22,669 - logging_setup - INFO - Bayesian sampling completed successfully.
+2025-02-27 21:08:25,271 - logging_setup - INFO - Estimated change point date: 2004-03-04 00:00:00
